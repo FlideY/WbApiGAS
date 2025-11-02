@@ -1,7 +1,10 @@
 # WbApiGAS
 Реализация методов Wb Api в среде Google Apps Script
 
-Идентификатор 18Y-1GMrDw5jiPMEgNOVDIg0wFzPmcTeF2qF24wlqJE9k4O2HNtyN6PUo
+Идентификатор 
+```
+18Y-1GMrDw5jiPMEgNOVDIg0wFzPmcTeF2qF24wlqJE9k4O2HNtyN6PUo
+```
 # Описание 📝
 
 # Подключение библиотеки к скрипту 🚀
